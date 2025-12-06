@@ -1,3 +1,7 @@
+
+![thumbnail pic](https://github.com/user-attachments/assets/73611814-8675-4c0a-8668-6bef2c24694c)
+showcasing my webapp
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
